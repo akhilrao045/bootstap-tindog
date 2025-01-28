@@ -1,1 +1,2 @@
-# bootstap-tindog
+# Technologies Used
+-Html , Css , Javascript
